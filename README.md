@@ -5,7 +5,7 @@ YOLOv8 Segmentation with DeepSORT Object  </H1>
 
 - Clone the repository
 ```
-git clone https://github.com/MuhammadMoinFaisal/YOLOv8_Segmentation_DeepSORT_Object_Tracking.git
+git clone
 ```
 - Goto the cloned folder.
 ```
@@ -21,7 +21,7 @@ pip install -e '.[dev]'
 cd ultralytics/yolo/v8/segment
 
 ```
-- Downloading the DeepSORT Files From The Google Drive 
+- Downloading the DeepSORT Files 
 ```
 
 https://drive.google.com/drive/folders/1kna8eWGrSfzaR6DtNJ8_GchGgPMv3VC8?usp=sharing
