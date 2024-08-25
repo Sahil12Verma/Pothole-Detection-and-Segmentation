@@ -16,7 +16,7 @@ cd YOLOv8_Segmentation_DeepSORT_Object_Tracking
 pip install -e '.[dev]'
 
 ```
-- Setting the Directory.
+- Setting the Directory
 ```
 cd ultralytics/yolo/v8/segment
 
