@@ -3,7 +3,7 @@ YOLOv8 Segmentation with DeepSORT Object  </H1>
 
 ## Steps to run Code
 
-- Clone the repository
+- Clone the repository.
 ```
 git clone
 ```
