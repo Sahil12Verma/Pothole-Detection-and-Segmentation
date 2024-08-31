@@ -16,12 +16,12 @@ cd YOLOv8_Segmentation_DeepSORT_Object_Tracking
 pip install -e '.[dev]'
 
 ```
-- Setting the Directory
+- Setting the Directory.
 ```
 cd ultralytics/yolo/v8/segment
 
 ```
-- Downloading the DeepSORT Files 
+- Downloading the DeepSORT Files. 
 ```
 
 https://drive.google.com/drive/folders/1kna8eWGrSfzaR6DtNJ8_GchGgPMv3VC8?usp=sharing
