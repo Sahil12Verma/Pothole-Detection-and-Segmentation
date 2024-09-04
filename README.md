@@ -28,7 +28,7 @@ https://drive.google.com/drive/folders/1kna8eWGrSfzaR6DtNJ8_GchGgPMv3VC8?usp=sha
 ```
 - After downloading the DeepSORT Zip file from the drive, unzip it go into the subfolders and place the deep_sort_pytorch folder into the ultralytics/yolo/v8/segment folder
 
-- Downloading a Sample Videos from the Google Drive
+- Downloading a Sample Videos from the Google Drive.
 - Demo Video 1
 ```
 gdown "https://drive.google.com/uc?id=19P9Cf9UiJ9gU9KHnAfud6hrFOgobETTX"
