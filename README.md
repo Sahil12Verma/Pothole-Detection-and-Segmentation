@@ -41,7 +41,7 @@ gdown "https://drive.google.com/uc?id=1rjBn8Fl1E_9d0EMVtL24S9aNQOJAveR5&confirm=
 
 - Run the code with mentioned command below.
 
-- For yolov8 segmentation + Tracking
+- For yolov8 segmentation + Tracking.
 ```
 python predict.py model=yolov8x-seg.pt source="test1.mp4"
 ```
